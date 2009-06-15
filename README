@@ -1,0 +1,20 @@
+ALPHA, NOT READY FOR USE YET
+
+
+Description:
+------------
+
+Wraps the Twitter PHP library (available on ...) into symfony, with convenience
+tasks and configuration from app.yml.
+
+This plugin does not achieve much.
+
+Dependances:
+------------
+
+- symfony
+- sfEasyLibrary symfony plugin
+- curl PHP extension (install php5-curl under ubuntu)
+
+
+
